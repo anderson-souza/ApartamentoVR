@@ -1,5 +1,7 @@
-VR Nanodegree Course 2 Project
+##VR Nanodegree Course 2 Project
 -------------------------------------------------------------------------------
+Projeto: Apartamento em VR
+Engine: Unity 2017.1.1f
 Plataforma: Android
 Nome: Anderson Pereira de Souza
 Tempo: Levei cerca de 3 horas trabalhadas(descontando as pausas) para conclusão do projeto
